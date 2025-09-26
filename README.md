@@ -1,2 +1,15 @@
-# prms_techhunch
-The Patient Record Management System (PRMS) is a secure, database-driven application for managing patient data, including demographics, medical history, and appointments. With role-based access and an intuitive interface, it reduces paperwork, improves accuracy, and enhances efficiency in healthcare delivery.
+# Patient Record Management System (PRMS)
+
+A lightweight patient record and appointment management system built with **Flask** and **SQLite**.  
+
+---
+
+## 🚀 Quick Start
+
+### 1. Clone and setup
+```bash
+git clone <your-repo-url>
+cd prms
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
